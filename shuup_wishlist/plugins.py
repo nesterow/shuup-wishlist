@@ -5,12 +5,10 @@
 #
 # This source code is licensed under the OSL-3.0 license found in the
 # LICENSE file in the root directory of this source tree.
-from __future__ import unicode_literals
-
 from django import forms
-from django.conf import settings
 from django.utils.translation import ugettext_lazy as _
 
+from shuup.core.utils.static import get_shuup_static_url
 from shuup.xtheme.resources import add_resource
 from shuup_wishlist.models import Wishlist
 
@@ -33,8 +31,16 @@ def add_resources(context, content):
     if not context.get("view"):
         return
 
-    add_resource(context, "head_end", "%sshuup_wishlist/css/style.css?v=0.4.11.css" % settings.STATIC_URL)
-    add_resource(context, "body_end", "%sshuup_wishlist/js/scripts.js?v=0.4.11.js" % settings.STATIC_URL)
+    add_resource(
+        context,
+        "head_end",
+        get_shuup_static_url("shuup_wishlist/css/style.css", "shuup-wishlist")
+    )
+    add_resource(
+        context,
+        "body_end",
+        get_shuup_static_url("shuup_wishlist/js/scripts.js", "shuup-wishlist")
+    )
 
 
 class WishlistPlugin(TemplatedPlugin):
