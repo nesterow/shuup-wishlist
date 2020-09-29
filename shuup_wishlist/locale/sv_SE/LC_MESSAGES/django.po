@@ -14,161 +14,159 @@ msgstr ""
 "POT-Creation-Date: 2019-04-11 21:51+0000\n"
 "PO-Revision-Date: 2019-03-16 20:47+0000\n"
 "Last-Translator: Panu Tulimäki <panu@shuup.com>, 2020\n"
-"Language-Team: Finnish (Finland) (https://www.transifex.com/shuup/teams/55306/fi_FI/)\n"
+"Language-Team: Swedish (Sweden) (https://www.transifex.com/shuup/teams/55306/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fi_FI\n"
+"Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Wishlist Settings"
-msgstr "Toivelistan asetukset"
+msgstr "Inställningar för önskelistan"
 
 msgid "Show wishlists on dashboard"
-msgstr "Näytä toivelistat kojelaudassa"
+msgstr "Visa önskelistor på instrumentpanelen"
 
 msgid "Setting this to false will hide wishlists from customer dashboard."
 msgstr ""
-"Jos asetat tämän vääräksi, piilotetaan toivelistat asiakkaan "
-"hallintapaneelista."
+"Om du ställer in detta på falskt döljs önskelistor från kundens "
+"instrumentpanel."
 
 msgid "Show favorites wishlist on dashboard"
-msgstr "Näytä suosikkien toivelista kojelaudalla"
+msgstr "Visa önskelista för favoriter på instrumentpanelen"
 
 msgid ""
 "Combined with Wishlist Favorites Button plugin show favorites wishlist at "
 "dashboard."
 msgstr ""
-"Yhdessä Wishlist Favorites Button -laajennuksen kanssa, näytä suosikkien "
-"toivelista kojelaudassa."
+"Kombinerat med Favoriter Favoriter Knapp plugin visa favoriter önskelista på"
+" instrumentpanelen."
 
 msgid "Wishlists"
-msgstr "Toivelistat"
+msgstr "Önskelistor"
 
 msgid "Show all"
-msgstr "Näytä kaikki"
+msgstr "Visa allt"
 
 msgid "Favorites"
-msgstr "Suosikit"
+msgstr "Favoriter"
 
 msgid "Invalid shop product."
-msgstr "Virheellinen myymälätuote."
+msgstr "Ogiltig butiksprodukt."
 
 msgid "Invalid shop."
-msgstr "Virheellinen kauppa."
+msgstr "Ogiltig butik."
 
 msgid "public"
-msgstr "julkinen"
+msgstr "offentlig"
 
 msgid "shared"
-msgstr "jaettu"
+msgstr "delad"
 
 msgid "private"
-msgstr "yksityinen"
+msgstr "privat"
 
 msgid "shop"
-msgstr "myymälä"
+msgstr "affär"
 
 msgid "customer"
-msgstr "asiakas"
+msgstr "kund"
 
 msgid "name"
-msgstr "nimi"
+msgstr "namn"
 
 msgid "privacy"
-msgstr "yksityisyyttä"
+msgstr "Integritet"
 
 msgid "created on"
-msgstr "luotu"
+msgstr "skapad på"
 
 msgid "products"
-msgstr "Tuotteet"
+msgstr "Produkter"
 
 msgid "Wishlist"
-msgstr "Toivelista"
+msgstr "Önskelista"
 
 msgid "Wishlist Action Button"
-msgstr "Toivelistan toimintopainike"
+msgstr "Önskelista Åtgärdsknapp"
 
 msgid "Wishlist Small Button"
-msgstr "Toivelista Pieni painike"
+msgstr "Önskelista Liten knapp"
 
 msgid "Show text next to icon"
-msgstr "Näytä teksti kuvakkeen vieressä"
+msgstr "Visa text bredvid ikonen"
 
 msgid "Wishlist Favorites Button"
-msgstr "Toivelista Suosikit-painike"
+msgstr "Favoritknapp för önskelista"
 
 msgid "Add to favorites"
-msgstr "Lisää suosikkeihin"
+msgstr "Lägg till i favoriter"
 
 msgid "Add to wishlist"
-msgstr "Lisää toivelistaan"
+msgstr "Lägg till i önskelista"
 
 msgid "Create Wishlist"
-msgstr "Luo toivelista"
+msgstr "Skapa önskelista"
 
 msgid "Create"
-msgstr "Luoda"
+msgstr "Skapa"
 
 msgid "Cancel"
-msgstr "Peruuttaa"
+msgstr "Avbryt"
 
 msgid "Home"
-msgstr "Koti"
+msgstr "Hem"
 
 msgid "Delete"
-msgstr "Poistaa"
+msgstr "Radera"
 
 msgid "Share: "
-msgstr "Jaa:"
+msgstr "Dela med sig:"
 
 msgid "Check out my wishlist"
-msgstr "Katso toivelistani"
+msgstr "Kolla in min önskelista"
 
 msgid "View"
-msgstr "Näytä"
+msgstr "Se"
 
 msgid "Remove"
-msgstr "Poista"
+msgstr "Ta bort"
 
 msgid "This list is empty."
-msgstr "Tämä luettelo on tyhjä."
+msgstr "Denna lista är tom."
 
 msgid "Dashboard"
-msgstr "Kojelauta"
+msgstr "instrumentbräda"
 
 msgid "Wishlist Name"
-msgstr "Toivelistan nimi"
+msgstr "Önskelista Namn"
 
 msgid "Number of Items"
-msgstr "Esineiden määrä"
+msgstr "Antal artiklar"
 
 msgid "Details"
-msgstr "Yksityiskohdat"
+msgstr "Detaljer"
 
 msgid "You haven't made any wishlists yet."
-msgstr "Et ole vielä laatinut toivelistoja."
+msgstr "Du har inte skapat några önskelistor än."
 
 msgid "New Wishlist"
-msgstr "Uusi toivelista"
+msgstr "Ny önskelista"
 
 msgid "Search"
-msgstr "Hae"
+msgstr "Sök"
 
 msgid "Search public wishlists by name or customer name/email"
-msgstr ""
-"Hae julkisista toivelistoista nimen tai asiakkaan nimen / "
-"sähköpostiosoitteen mukaan"
+msgstr "Sök i offentliga önskelistor efter namn eller kundnamn / e-post"
 
 msgid "Customer"
-msgstr "Asiakas"
+msgstr "Kund"
 
 msgid "No wishlists found."
-msgstr "Toivelistoja ei löytynyt."
+msgstr "Inga önskelistor hittades."
 
 msgid "Create a wishlist"
-msgstr "Luo toivelista"
+msgstr "Skapa en önskelista"
 
 msgid "Product removed from wishlist."
-msgstr "Tuote poistettu toivelistalta."
+msgstr "Produkten har tagits bort från önskelistan."
