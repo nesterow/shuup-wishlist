@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-11 21:51+0000\n"
+"POT-Creation-Date: 2020-09-29 12:51+0000\n"
 "PO-Revision-Date: 2019-03-16 20:47+0000\n"
 "Last-Translator: Panu Tulimäki <panu@shuup.com>, 2020\n"
 "Language-Team: Finnish (Finland) (https://www.transifex.com/shuup/teams/55306/fi_FI/)\n"
@@ -126,6 +126,9 @@ msgstr "Jaa:"
 msgid "Check out my wishlist"
 msgstr "Katso toivelistani"
 
+msgid "Product not available"
+msgstr ""
+
 msgid "View"
 msgstr "Näytä"
 
@@ -166,6 +169,12 @@ msgstr "Asiakas"
 
 msgid "No wishlists found."
 msgstr "Toivelistoja ei löytynyt."
+
+msgid "Select Wishlist"
+msgstr ""
+
+msgid "Create a new wishlist"
+msgstr ""
 
 msgid "Create a wishlist"
 msgstr "Luo toivelista"

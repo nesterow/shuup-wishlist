@@ -14,168 +14,170 @@ msgstr ""
 "POT-Creation-Date: 2020-09-29 12:51+0000\n"
 "PO-Revision-Date: 2019-03-16 20:47+0000\n"
 "Last-Translator: Panu Tulimäki <panu@shuup.com>, 2020\n"
-"Language-Team: Swedish (Sweden) (https://www.transifex.com/shuup/teams/55306/sv_SE/)\n"
+"Language-Team: French (Canada) (https://www.transifex.com/shuup/teams/55306/fr_CA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv_SE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgid "Wishlist Settings"
-msgstr "Inställningar för önskelistan"
+msgstr "Paramètres de la liste de souhaits"
 
 msgid "Show wishlists on dashboard"
-msgstr "Visa önskelistor på instrumentpanelen"
+msgstr "Afficher les listes de souhaits sur le tableau de bord"
 
 msgid "Setting this to false will hide wishlists from customer dashboard."
 msgstr ""
-"Om du ställer in detta på falskt döljs önskelistor från kundens "
-"instrumentpanel."
+"Définir ce paramètre sur false masquera les listes de souhaits du tableau de"
+" bord client."
 
 msgid "Show favorites wishlist on dashboard"
-msgstr "Visa önskelista för favoriter på instrumentpanelen"
+msgstr "Afficher la liste de souhaits des favoris sur le tableau de bord"
 
 msgid ""
 "Combined with Wishlist Favorites Button plugin show favorites wishlist at "
 "dashboard."
 msgstr ""
-"Kombinerat med Favoriter Favoriter Knapp plugin visa favoriter önskelista på"
-" instrumentpanelen."
+"Combiné avec le plugin de bouton Favoris de la liste de souhaits, affiche la"
+" liste de souhaits des favoris sur le tableau de bord."
 
 msgid "Wishlists"
-msgstr "Önskelistor"
+msgstr "Liste de voeux"
 
 msgid "Show all"
-msgstr "Visa allt"
+msgstr "Afficher tout"
 
 msgid "Favorites"
-msgstr "Favoriter"
+msgstr "Favoris"
 
 msgid "Invalid shop product."
-msgstr "Ogiltig butiksprodukt."
+msgstr "Produit de la boutique non valide."
 
 msgid "Invalid shop."
-msgstr "Ogiltig butik."
+msgstr "Boutique non valide."
 
 msgid "public"
-msgstr "offentlig"
+msgstr "Publique"
 
 msgid "shared"
-msgstr "delad"
+msgstr "partagé"
 
 msgid "private"
-msgstr "privat"
+msgstr "privé"
 
 msgid "shop"
-msgstr "affär"
+msgstr "boutique"
 
 msgid "customer"
-msgstr "kund"
+msgstr "client"
 
 msgid "name"
-msgstr "namn"
+msgstr "Nom"
 
 msgid "privacy"
-msgstr "Integritet"
+msgstr "intimité"
 
 msgid "created on"
-msgstr "skapad på"
+msgstr "créé sur"
 
 msgid "products"
-msgstr "Produkter"
+msgstr "des produits"
 
 msgid "Wishlist"
-msgstr "Önskelista"
+msgstr "Liste de souhaits"
 
 msgid "Wishlist Action Button"
-msgstr "Önskelista Åtgärdsknapp"
+msgstr "Bouton d&#39;action de la liste de souhaits"
 
 msgid "Wishlist Small Button"
-msgstr "Önskelista Liten knapp"
+msgstr "Petit bouton de liste de souhaits"
 
 msgid "Show text next to icon"
-msgstr "Visa text bredvid ikonen"
+msgstr "Afficher le texte à côté de l&#39;icône"
 
 msgid "Wishlist Favorites Button"
-msgstr "Favoritknapp för önskelista"
+msgstr "Bouton Favoris de la liste de souhaits"
 
 msgid "Add to favorites"
-msgstr "Lägg till i favoriter"
+msgstr "Ajouter aux Favoris"
 
 msgid "Add to wishlist"
-msgstr "Lägg till i önskelista"
+msgstr "Ajouter à la liste de souhaits"
 
 msgid "Create Wishlist"
-msgstr "Skapa önskelista"
+msgstr "Créer une liste de souhaits"
 
 msgid "Create"
-msgstr "Skapa"
+msgstr "Créer"
 
 msgid "Cancel"
-msgstr "Avbryt"
+msgstr "Annuler"
 
 msgid "Home"
-msgstr "Hem"
+msgstr "Accueil"
 
 msgid "Delete"
-msgstr "Radera"
+msgstr "Effacer"
 
 msgid "Share: "
-msgstr "Dela med sig:"
+msgstr "Partager:"
 
 msgid "Check out my wishlist"
-msgstr "Kolla in min önskelista"
+msgstr "Consultez ma liste de souhaits"
 
 msgid "Product not available"
-msgstr ""
+msgstr "Produit non disponible"
 
 msgid "View"
-msgstr "Se"
+msgstr "Vue"
 
 msgid "Remove"
-msgstr "Ta bort"
+msgstr "Retirer"
 
 msgid "This list is empty."
-msgstr "Denna lista är tom."
+msgstr "Cette liste est vide."
 
 msgid "Dashboard"
-msgstr "instrumentbräda"
+msgstr "Tableau de bord"
 
 msgid "Wishlist Name"
-msgstr "Önskelista Namn"
+msgstr "Nom de la liste de souhaits"
 
 msgid "Number of Items"
-msgstr "Antal artiklar"
+msgstr "Nombre d&#39;objets"
 
 msgid "Details"
-msgstr "Detaljer"
+msgstr "Détails"
 
 msgid "You haven't made any wishlists yet."
-msgstr "Du har inte skapat några önskelistor än."
+msgstr "Vous n&#39;avez encore créé aucune liste de souhaits."
 
 msgid "New Wishlist"
-msgstr "Ny önskelista"
+msgstr "Nouvelle liste de souhaits"
 
 msgid "Search"
-msgstr "Sök"
+msgstr "Chercher"
 
 msgid "Search public wishlists by name or customer name/email"
-msgstr "Sök i offentliga önskelistor efter namn eller kundnamn / e-post"
+msgstr ""
+"Rechercher des listes de souhaits publiques par nom ou nom de client / "
+"e-mail"
 
 msgid "Customer"
-msgstr "Kund"
+msgstr "Client"
 
 msgid "No wishlists found."
-msgstr "Inga önskelistor hittades."
+msgstr "Aucune liste de souhaits trouvée."
 
 msgid "Select Wishlist"
-msgstr ""
+msgstr "Sélectionnez la liste de souhaits"
 
 msgid "Create a new wishlist"
-msgstr ""
+msgstr "Créer une nouvelle liste de souhaits"
 
 msgid "Create a wishlist"
-msgstr "Skapa en önskelista"
+msgstr "Créer une liste de souhaits"
 
 msgid "Product removed from wishlist."
-msgstr "Produkten har tagits bort från önskelistan."
+msgstr "Produit retiré de la liste de souhaits."
